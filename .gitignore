@@ -1,0 +1,6 @@
+# markdown files
+SPRINT_LOG.md
+
+# node
+node_modules/
+dist/
