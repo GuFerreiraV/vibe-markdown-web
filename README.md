@@ -1,7 +1,5 @@
 # Markdown Web Viewer
 
-> ⚠️ AVISO: Projeto 100% vibecodado, não houve nenhuma participação humana durante o desenvolvimento ⚠️.
-
 Aplicação web SPA (Single Page Application) construída em React, TypeScript, Vite e Tailwind CSS para exploração, busca e visualização renderizada de arquivos Markdown (`.md`) hospedados em repositórios públicos do GitHub.
 
 Projetada para execução 100% *client-side*, permitindo hospedagem contínua e gratuita em plataformas estáticas (GitHub Pages, Vercel ou Netlify), sem custos de infraestrutura ou necessidade de servidores intermediários.
